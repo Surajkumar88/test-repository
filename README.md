@@ -1,16 +1,16 @@
-#My Awesome REST API
+# My Awesome REST API
 
-##Installation
+## Installation
 
 ```
 pip install Flask
 python app.py
 ```
 
-##Description
+## Description
 
 This project will allow access of the inventory of a store.
 
-##Implementation
+## Implementation
 
 This project is implemented using Flask and is an REST API for a store.
